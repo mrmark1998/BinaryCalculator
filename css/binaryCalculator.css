@@ -1,0 +1,45 @@
+body { 
+    width: 33%;
+}
+
+#res {
+    height: 48px;
+    background-color: lightgray;
+    border: solid;
+    font-size: 20px;
+    word-wrap: break-word;
+}
+
+#btns {
+    width: 100%;    
+}
+
+.btn {
+    text-align: center;
+    font-size: 18px;
+    width: 25%;
+    height: 36px;
+    background: lightgreen;
+    color: brown;
+    float: left;
+}
+
+.btnC {
+    text-align: center;
+    font-size: 18px;
+    width: 25%;
+    height: 36px;
+    background: darkgreen;
+    color: white;
+    float: left;
+}
+
+.btnO {
+    text-align: center;
+    font-size: 18px;
+    width: 25%;
+    height: 36px;
+    background: black;
+    color: red;
+    float: left;
+}
