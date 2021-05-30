@@ -3,11 +3,11 @@ BinaryCalculator Challenge (from hackerrank)
 
 One of the cool things I made, a binary calculator, using Javascript.  Thought I'd post it on here so maybe one day I'll come back and add more to it.
 
-
-
-Short description regarding the challenge from Hackerrank's website: 
+Full challenge from Hackerrank's website: 
 https://www.hackerrank.com/challenges/js10-binary-calculator
 
+<br><br><br>
+<i>Short description:</i>
 
 Objective
 
